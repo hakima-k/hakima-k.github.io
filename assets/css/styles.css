@@ -4937,7 +4937,7 @@ button.close {
 }
 .alert-info {
   color: #00acc1;
-  background-color: #b2ebf2;
+  background-color: #c9dbdd;
   border-color: #26c6da;
 }
 .alert-info hr {
@@ -4954,7 +4954,7 @@ button.close {
 .alert-info h5,
 .alert-info h6,
 .alert-info small {
-  color: #00acc1;
+  color: #474747;
 }
 .alert-info hr {
   border-top-color: #22b3c5;
