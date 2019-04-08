@@ -4938,7 +4938,7 @@ button.close {
 .alert-info {
   color: #00acc1;
   background-color: #c9dbdd;
-  border-color: #26c6da;
+  border-color: #548185;
 }
 .alert-info hr {
   border-top-color: #22b3c5;
@@ -13285,10 +13285,10 @@ body.topnav-collapsed header.navbar.navbar-default .navbar-collapse .open .tt-dr
   color: #03a9f4 !important;
 }
 .alert {
-  border-width: 0;
+  border-width: 3;
   border-style: solid;
-  padding: 24px;
-  margin-bottom: 32px;
+  padding: 10px;
+  margin-bottom: 20px;
 }
 .alert > h1,
 .alert > h2,
